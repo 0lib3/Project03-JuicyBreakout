@@ -1,6 +1,6 @@
 # Project03-JuicyBreakout
 
-# Project Name
+# Break Out
 Made 02/24/24 in Unity v. 2022.3.17f 
 
 A somewhat silly space-themed brick breaker game where your main goal is to destroy all the bricks you can.
